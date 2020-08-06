@@ -1,0 +1,19 @@
+HELP.md
+target/
+mvn/wrapper/maven-wrapper.jar
+
+*.class
+*.jar
+
+server/logs/
+*.log
+
+docker/
+
+### NetBeans ###
+/server/nbproject/private/
+/server/nbbuild/
+/server/dist/
+/server/nbdist/
+/server/.nb-gradle/
+/serverbuild/

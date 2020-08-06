@@ -1,0 +1,1 @@
+curl -X POST --user webfront-client:987 http://localhost:9000/oauth/token -H "content-type: application/x-www-form-urlencoded" -d "code=ruSUwj&state=Nc4h_yYb62oF5fVv3Crj0JnrHwZLoB5K4Vk1VYr2jx0%3D&grant_type=authorization_code&redirect_uri=http://localhost:9000/webfront/callback&scope=read" >token
