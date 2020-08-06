@@ -1,4 +1,4 @@
-Testing Auth2 in Spting Cloud.
+Testing OAuth2 in Spting Cloud.
 Used:
 1. OAuth2 Auth-Server with JWT
 2. Eurica Service Discovery
